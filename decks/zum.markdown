@@ -10,7 +10,7 @@ layout: page
 # Týden 1
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj AI|Umělá Inteligence \(AI\)<br>Umělá inteligence je věda o systémech imitujících chování inteligentních živočichů.||
 
@@ -18,7 +18,7 @@ layout: page
 # Týden 2
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definice: Neorientovaný graf|<img src="media/GrqUQDJthGP9LKN4fkejsC89b-pQeDHm26ceHBvt75k.original.fullsize.png">||
 |Definice: Orientovaný graf|<img src="media/e-U5GhqdXyc8w9DU3-xOJdHChZYLZTQIESqOGHZYxs4.original.fullsize.png">||
@@ -38,7 +38,7 @@ layout: page
 # Týden 3
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definice: stavového prostoru s ohodnocenými akcemi|<img src="media/paste-828b3714cbbac0f041b37845d00b52522748ce66.jpg">||
 |Definice: Cena cesty|<img src="media/paste-0d6d27994a4bd42bd63d620d744551b3feba660d.jpg">||
@@ -65,7 +65,7 @@ layout: page
 # Týden 4
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj optimalizační problém|<img src="media/paste-f4a9f9824321c2b9f0f5dc92950bd47f590e0bc9.jpg">||
 |Vyjmenuj a popiš třídy optimalizačních problémů|<img src="media/paste-9d5003d95cc6a892386a280c647db2309872878d.jpg">||

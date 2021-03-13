@@ -10,7 +10,7 @@ layout: page
 # Týden 1
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Popiš model výpočetního systému|<img src="media/SnLwAfUS_OOyKLrg-n8Br4vKP9bCZN5VouY51jrl8m4.original.fullsize.png">||
 |Co je ISA?|Instruction Set Architecture&nbsp;- Definuje množinu instrukcí, adresní režimy, ...&nbsp;- Definuje množinu registrů, organizace paměti, organizaci V/V&nbsp;- Privilegované úrovně \( módy \)&nbsp;||
@@ -37,7 +37,7 @@ layout: page
 # Týden 2
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj program, jeho reprezentaci|Program je sled instrukcí. V systému reprezentován spustitelným binárním programem, který je uložený v sekundární paměti \(např. disk\).||
 |Definuj proces|Instance spuštěného programu/aplikace.<br>Jsou v rámci něho alokovány prostředky \(pamět, vlákna, ...\)||
@@ -69,7 +69,7 @@ layout: page
 # Týden 3
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj Deadlock|<img src="media/paste-ceb0223f5bd8d40d8881886c98585ace843f1023.jpg">||
 |Definuj livelock|<img src="media/paste-b560d9375cb14595726c545ae079c7c68aa1f491.jpg">||

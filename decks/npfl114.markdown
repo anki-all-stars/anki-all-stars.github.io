@@ -10,7 +10,7 @@ layout: page
 # Týden 1
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Define a probability distribution|A probability distribution describes how likely are individual values a random variable can take.||
 |What is the sum of all probabilities?|1||

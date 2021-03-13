@@ -10,7 +10,7 @@ layout: page
 # Týden 1
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj kryptologii|Tvorba a luštění šifer|<img src="media/Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png">|
 |Definuj kryptografii|Věda o tvorbě šifer|<img src="media/Ilz7fpB-4yqlpxFoL3Iuz90C-C_M9OdPpHJHyxit6S8.original.fullsize.png">|
@@ -49,7 +49,7 @@ layout: page
 # Týden 2
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Vlastnosti exponenciální šifry|Jsou založeny na modulárním omocňováníOdolné vůči kryptoanalýza||
 |Jakým způsobem vypočátáme ŠT v exponenciální šifře|Pomocí vzorce:<br>\\(c = \|p^e\|_m\\)<br>kde&nbsp;\\(0 \leq c&nbsp; &lt; m\\)<br>c == zašifrované písmeno<br>p == OT písmeno<br>e == klíč - exponent||
@@ -62,7 +62,7 @@ layout: page
 # Týden 3
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj symetrickou proudovou šifru|<img src="media/paste-5029800829dfbaa5753c15c1e6f0194d2acbf867.jpg">||
 |Jaký je rozdíl mezi proudovými a blokovými šiframi?|<img src="media/paste-14f5d3ac05179f62694b14fb43e23665e425aa32.jpg">||
@@ -75,7 +75,7 @@ layout: page
 # Týden 4
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Definuj blokovou šifru|<img src="media/paste-6fc2b84a6eca6bc167b73e4cd614dc91b163a610.jpg">||
 |Definuj Feistelův kryptosystém|<img src="media/paste-1a7a329a40f2c8a720e0ee8cf99f46ea8292e6f1.jpg">||

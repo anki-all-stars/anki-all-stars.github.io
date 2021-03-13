@@ -10,7 +10,7 @@ layout: page
 # Týden 1
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Druhy přepojování sítě|Okruhy - sestavená trasavs<br>Pakety - balíček odesílaných dat||
 |Druhy architektury komunikace|- Peer to peer- Client-server||
@@ -43,7 +43,7 @@ layout: page
 # Týden 2
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Jaký je účel linkové vrstvy?|Přenášení dat v rámci LAN či MAN sítě.||
 |Jakou základní přenášecí jednotku má linková vrstva?|Rámec||
@@ -84,7 +84,7 @@ layout: page
 # Týden 3
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Co znamená VLAN a k čemu je určená?|<img src="media/paste-dddb7e1e27ee2378ce93cb58c65ee3ec74038ee8.jpg">||
 |Jaké jsou výhody VLAN?|<img src="media/paste-f1297e0830916e17eca105a7904697537aad6bfc.jpg">||
@@ -113,7 +113,7 @@ layout: page
 # Týden 4
 
 
-|Otázka|Odpověd|Poznámky|
+|Otázka|Odpověd|Poznámky // Zdroje |
 |--------|---------|----------|
 |Popiš datagram IPv6|<img src="media/paste-473cec913d01ed0b1a5e6a8371f213fe976f4281.jpg">||
 |Co je zřetězování hlaviček v IPv6?|V IPv6 každá hlavička reprezentuje samotný blok dat a pro jejich spojování se používá hlavička "next header". Výhodou j přenášení pouze užitečných informací||

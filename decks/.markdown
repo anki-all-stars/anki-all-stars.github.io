@@ -1,0 +1,15 @@
+---
+title: 
+layout: page
+---
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+# Nezařazné
+
+
+|Otázka|Odpověd|Poznámky // Zdroje |
+|--------|---------|----------|
+|[latex]Jak definujeme pojmy kořen, list a vnitřní vrchol v zakořeněném stromu?[/latex]|[latex]Kořen je nejvyšší vrchol stromu, je to jediný vrchol, který nemá rodiče. List je takový vrchol, který nemá žádného syna. Vnitřní vrchol je takový, který má alespoň jednoho syna. Má-li zakořeněný strom jen jeden vrchol, je tento vrchol kořenem i listem zároveň. Má-li zakořeněný strom dva vrcholy, pak jeden z nich je listem a druhý kořenem \(a také vnitřním vrcholem\).[/latex]<br>||
